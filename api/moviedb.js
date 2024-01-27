@@ -1,8 +1,7 @@
 import axios from "axios";
 
-const env = await import.meta.env;
+const env = import.meta.env;
 const apiKey = env.VITE_API_KEY;
-console.log(apiKey)
 
 // endpoints
 const baseUrl = 'https://api.themoviedb.org/3';
