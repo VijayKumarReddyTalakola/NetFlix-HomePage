@@ -1,0 +1,10 @@
+.movie_list {
+  padding: 0.5rem 3rem;
+}
+
+.list_title {
+  text-align: left;
+  color: white;
+  font-size: 1.4rem;
+  margin: 1rem 0 1rem 0;
+}
